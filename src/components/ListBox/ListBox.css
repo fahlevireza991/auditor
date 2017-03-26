@@ -1,0 +1,19 @@
+.list-box {
+  background: #FFF;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  margin-bottom: 15px;
+}
+.list-box-name {
+  font-size: 20px;
+}
+.list-box-detail {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.list-box-detail__amount {
+    float: left;
+}
+.list-box-detail__date {
+    float: right;
+}
